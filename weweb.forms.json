@@ -12,6 +12,13 @@
                 "required": true,
                 "initialPreset": "exampleCollection"
             }
+        ],
+        "summary": [
+            {
+                "field": "js",
+                "label": "JS:",
+                "empty": "-"
+            }
         ]
     }
 }
