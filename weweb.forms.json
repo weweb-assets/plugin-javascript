@@ -1,0 +1,17 @@
+{
+    "schemaVersion": 1,
+    "features": {
+        "datasource": true
+    },
+    "collection": {
+        "fields": [
+            {
+                "key": "js",
+                "label": "Javascript code",
+                "type": "source",
+                "required": true,
+                "initial": "return { test: \"my code is always working\" }"
+            }
+        ]
+    }
+}
