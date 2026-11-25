@@ -10,7 +10,7 @@
                 "label": "Javascript code",
                 "type": "source",
                 "required": true,
-                "initial": "return { test: \"my code is always working\" }"
+                "initialPreset": "exampleCollection"
             }
         ]
     }
